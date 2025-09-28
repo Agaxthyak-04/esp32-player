@@ -1,4 +1,3 @@
-
 #include <WiFi.h>
 #include <SD.h>
 #include <SPI.h>
